@@ -7,7 +7,7 @@ permissions set for a specific directory in the file system.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://imgur.com/a/phZd1Zh](https://i.imgur.com/dSUwxLs.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dSUwxLs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
