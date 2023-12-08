@@ -9,5 +9,10 @@ Check file and directory details: <br/>
 <br />
 <br />
 
-
 - The screenshot's first line captures the command I typed, and the rest lay out what the output was. I use the ls command with the -la option to get the file content with the hidden files. The output shows that that where is a directory nameed "drafts" and a hidden file named ".project_x.txt" and a then five other project files. 
+
+<p align="center">
+Describe the permissions string: <br/>
+- something 
+<br />
+<br />
