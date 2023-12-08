@@ -1,12 +1,10 @@
 # File-Permissions-in-Linux
 
-<h2> Check file and directory details:</h2>
-
 -The following code demonstrates how I used Linux commands to determine the existing
 permissions set for a specific directory in the file system.
 
 <p align="center">
-Launch the utility: <br/>
+Check file and directory details: <br/>
 <img src="https://i.imgur.com/dSUwxLs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
